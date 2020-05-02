@@ -1,0 +1,2 @@
+# mkdir /git        创建工作区
+# git init             创建版本库
